@@ -34,4 +34,28 @@ class Abstraction implements HOD, Professor {
     @Override
     public void markAttendance() {
     }
+
+    @Override
+    public void setExamPaper() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setExamPaper'");
+    }
+
+    @Override
+    public void defineClassSchedule() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'defineClassSchedule'");
+    }
+
+    @Override
+    public void prepareTeamReport() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'prepareTeamReport'");
+    }
+
+    @Override
+    public void allowLeaves() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'allowLeaves'");
+    }
 }
